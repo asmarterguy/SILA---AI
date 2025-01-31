@@ -1,4 +1,4 @@
-# SILA-AI WhatsApp Bot 🤖💬
+# SILA-AI CHATBOT 🤖💬
 
 **Developer:** [Omar Charaf](https://www.instagram.com/omar.charaf/)  
 **Project Type:** WhatsApp Bot with Gemini AI Integration  
