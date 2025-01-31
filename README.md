@@ -1,6 +1,6 @@
 # SILA-AI CHATBOT 🤖💬
 
-**Developer:** [Omar Charaf](https://www.instagram.com/omar.charaf/)  
+**Developer:** [Omar Charaf](https://www.instagram.com/omar.charaff/)  
 **Project Type:** WhatsApp Bot with Gemini AI Integration  
 **Tech Stack:** Node.js, Gemini API, WhatsApp Web JS  
 **Version:** 1.0.0  
