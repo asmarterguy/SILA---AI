@@ -35,7 +35,7 @@
 ## Prerequisites 📋
 - **Node.js** (v16.x or higher)
 - **WhatsApp Account** (for testing)
-- **Gemini API Key** (get it from [Gemini API](https://gemini.com/api))
+- **Gemini API Key** (get it from [Gemini API](https://aistudio.google.com/app/apikey))
 - **npm** (Node Package Manager)
 
 ---
