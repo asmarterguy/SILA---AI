@@ -1,30 +1,48 @@
-# SILA-AI 🚀
+# SILA-AI WhatsApp Bot 🤖💬
 
 **Developer:** [Omar Charaf](https://www.instagram.com/omar.charaf/)  
-**Project Type:** Advanced AI Development  
+**Project Type:** WhatsApp Bot with Gemini AI Integration  
+**Tech Stack:** Node.js, Gemini API, WhatsApp Web JS  
 **Version:** 1.0.0  
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/badge/Node.js-16.x%2B-green)](https://nodejs.org/)
+[![Gemini API](https://img.shields.io/badge/Gemini-API-orange)](https://gemini.com/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/omar-charaf/SILA-AI-WhatsApp-Bot/pulls)
 
 ---
 
 ## Overview 📖
-**SILA-AI** is an advanced artificial intelligence project designed to revolutionize the way we interact with technology. Developed by **Omar Charaf**, this project leverages cutting-edge AI algorithms to provide intelligent solutions for real-world problems. Whether you're a developer, researcher, or tech enthusiast, SILA-AI offers a robust platform to explore the potential of AI.
+**SILA-AI WhatsApp Bot** is an advanced AI-powered bot designed to interact with users on WhatsApp. Built using **Node.js** and integrated with the **Gemini API**, this bot provides intelligent responses, automates tasks, and delivers AI-driven insights directly to your WhatsApp chats. Whether you need a personal assistant or a business automation tool, SILA-AI has got you covered.
 
 ---
 
 ## Key Features ✨
-- **Natural Language Processing (NLP):** SILA-AI understands and processes human language with high accuracy.
-- **Computer Vision:** Advanced image recognition and object detection capabilities.
-- **Predictive Analytics:** Utilizes machine learning models to predict trends and outcomes.
-- **Customizable Modules:** Easily integrate SILA-AI into your existing projects.
-- **Scalable Architecture:** Designed to handle large datasets and high traffic.
-- **User-Friendly API:** Simple and intuitive API for seamless integration.
+- **AI-Powered Responses:**  
+  - Leverages Gemini API for natural language understanding and generation.
+  - Provides accurate and context-aware replies.
+- **Multi-Language Support:**  
+  - Communicates in multiple languages using Gemini's translation capabilities.
+- **Task Automation:**  
+  - Sends reminders, fetches data, and performs automated tasks.
+- **Easy Integration:**  
+  - Simple setup with Node.js and WhatsApp Web JS.
+- **Secure and Scalable:**  
+  - Built with security in mind and designed to handle multiple users.
+
+---
+
+## Prerequisites 📋
+- **Node.js** (v16.x or higher)
+- **WhatsApp Account** (for testing)
+- **Gemini API Key** (get it from [Gemini API](https://gemini.com/api))
+- **npm** (Node Package Manager)
 
 ---
 
 ## Installation 🛠️
-To get started with SILA-AI, follow these steps:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/asmarterguy/SILA-AI.git
-   cd SILA-AI
+### 1. Clone the Repository
+```bash
+git clone https://github.com/omar.charaff/SILA-AI.git
+cd SILA-AI-WhatsApp-Bot
