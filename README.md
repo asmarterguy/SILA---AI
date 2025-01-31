@@ -44,5 +44,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/onlycharafcharaf/SILA-AI.git
+git clone https://github.com/onlycharaf/SILA-AI.git
 cd SILA-AI
