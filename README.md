@@ -44,5 +44,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/omar.charaff/SILA-AI.git
-cd SILA-AI-WhatsApp-Bot
+git clone https://github.com/onlycharafcharaf/SILA-AI.git
+cd SILA-AI
